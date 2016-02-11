@@ -1,7 +1,7 @@
 {
   "name": "backbone-event-logger",
   "version": "0.0.1",
-  "main": "dist/backbone-event-logger.min.js",
+  "main": "backbone.event-logger.min.js",
   "description": "The best module ever.",
   "homepage": "https://github.com/pchw/backbone-event-logger",
   "bugs": "https://github.com/pchw/backbone-event-logger/issues",
